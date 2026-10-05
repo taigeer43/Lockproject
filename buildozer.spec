@@ -25,3 +25,4 @@ source.include_patterns = shizuku.jpg
 android.allow_backup = True
 android.wakelock = True
 android.python_version = 3.11
+android.accept_sdk_license = True
